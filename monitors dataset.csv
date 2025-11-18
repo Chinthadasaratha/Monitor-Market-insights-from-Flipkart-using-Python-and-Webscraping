@@ -1,0 +1,385 @@
+,Brand,Price,Panel_Type,Display,Screen_Resolution,Brightness,Response_Time,Refresh_Rate
+0,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+1,ZEBSTER,"₹2,699",VA Panel,50.8 cm,HD,400 nits,8 ms,60 Hz
+2,Frontech,"₹2,089",VA Panel,43.18 cm,HD,250 nits,5 ms,60 Hz
+3,MarQ,"₹7,499",VA Panel,68.58 cm,Full HD,300 nits,1 ms,100 Hz
+4,Frontech,"₹3,499",VA Panel,55.88 cm,HD,250 nits,3 ms,60 Hz
+5,MarQ,"₹5,099",VA Panel,55.88 cm,Full HD,300 nits,1 ms,100 Hz
+6,MarQ,"₹7,999",IPS Panel,68.58 cm,Full HD,,1 ms,100 Hz
+7,Acer,"₹5,799",IPS Panel,54.61 cm,Full HD,,1 ms,100 Hz
+8,Frontech,"₹2,840",VA Panel,50.8 cm,HD,250 nits,5 ms,60 Hz
+9,MarQ,"₹5,249",IPS Panel,55.88 cm,Full HD,,1 ms,100 Hz
+10,Samsung,"₹9,099",IPS Panel,68.6 cm,Full HD,250 nits,5 ms,100 Hz
+11,Acer,"₹6,649",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,144 Hz
+12,rionix,"₹2,525",TN Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+13,Acer,"₹6,649",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,120 Hz
+14,Enter,"₹2,899",VA Panel,50.8 cm,HD,250 nits,5 ms,60 Hz
+15,ZEBRONICS,"₹2,699",TN Panel,46.99 cm,HD,,8 ms,60 Hz
+16,Acer,"₹6,299",IPS Panel,54.61 cm,Full HD,250 nits,1 ms,100 Hz
+17,Frontech,"₹5,233",VA Panel,55.88 cm,Full HD,250 nits,5 ms,75 Hz
+18,Acer,"₹5,695",VA Panel,54.61 cm,Full HD,250 nits,1 ms,100 Hz
+19,Acer,"₹14,999",IPS Panel,68.58 cm,WQHD,250 nits,1 ms,180 Hz
+20,Acer,"₹15,704",IPS Panel,68.58 cm,WQHD,350 nits,,180 Hz
+21,ZEBSTER,"₹2,799",VA Panel,46.9 cm,HD,220 nits,5 ms,60 Hz
+22,Frontech,"₹2,602",VA Panel,46.99 cm,HD,250 nits,5 ms,60 Hz
+23,Samsung,"₹6,799",IPS Panel,55.88 cm,Full HD,250 nits,5 ms,100 Hz
+24,MSI,"₹5,699",VA Panel,54.48 cm,Full HD,250 nits,1 ms,100 Hz
+25,Frontech,"₹2,602",VA Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+26,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+27,Frontech,"₹2,602",VA Panel,46.99 cm,HD,250 nits,5 ms,60 Hz
+28,MarQ,"₹9,999",IPS Panel,81.28 cm,Full HD,280 nits,5 ms,75 Hz
+29,DELL,"₹6,599",VA Panel,55.88 cm,Full HD,,5 ms,100 Hz
+30,Acer,"₹12,299",IPS Panel,68.58 cm,WQHD,250 nits,1 ms,120 Hz
+31,Samsung,"₹7,499",IPS Panel,60.4 cm,Full HD,250 nits,5 ms,100 Hz
+32,Frontech,"₹6,599",VA Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+33,BenQ,"₹8,250",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+34,Acer,"₹5,895",IPS Panel,54.61 cm,Full HD,250 nits,1 ms,100 Hz
+35,BenQ,"₹14,990",IPS Panel,68.58 cm,Quad HD,350 nits,5 ms,100 Hz
+36,ZEBSTER,"₹2,595",VA Panel,46.99 cm,HD,220 nits,5 ms,60 Hz
+37,BenQ,"₹10,498",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+38,Acer,"₹11,589",IPS Panel,68.58 cm,Full HD,250 nits,,200 Hz
+39,ZEBRONICS,"₹6,499",VA Panel,60.96 cm,Full HD,250 nits,12 ms,100 Hz
+40,ZEBRONICS,"₹11,999",VA Panel,81.28 cm,Full HD,250 nits,8 ms,75 Hz
+41,Acer,"₹14,999",IPS Panel,68.58 cm,WQHD,250 nits,1 ms,180 Hz
+42,BenQ,"₹14,998",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+43,ZEBSTER,"₹3,693",AHVA Panel,55.88 cm,Full HD,,5 ms,240 Hz
+44,Acer,"₹9,499",IPS Panel,60.45 cm,Full HD,250 nits,,200 Hz
+45,LG,"₹9,999",IPS Panel,60.96 cm,Full HD,240 nits,1 ms,180 Hz
+46,Arzopa,"₹16,990",IPS Panel,40.89 cm,Full HD,500 nits,6 ms,144 Hz
+47,BenQ,"₹9,898",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+48,LG,"₹9,999",IPS Panel,60.96 cm,Full HD,240 nits,1 ms,180 Hz
+49,BenQ,"₹9,898",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+50,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+51,LG,"₹5,499",TN Panel,49.53 cm,HD,200 nits,5 ms,60 Hz
+52,LG,"₹28,990",IPS Panel,68.58 cm,Quad HD,350 nits,5 ms,75 Hz
+53,Acer,"₹16,999",VA Panel,74.93 cm,WFHD,400 nits,1 ms,200 Hz
+54,Acer,"₹14,999",IPS Panel,62.23 cm,Full HD,,1 ms,300 Hz
+55,Foxin,"₹6,899",VA Panel,60.96 cm,Full HD,,5 ms,100 Hz
+56,Enter,"₹2,677",VA Panel,48.26 cm,HD,,5 ms,60 Hz
+57,Frontech,"₹2,128",VA Panel,39.12 cm,HD,220 nits,3 ms,60 Hz
+58,ZEBRONICS,"₹7,999",IPS Panel,39.62 cm,Full HD,300 nits,25 ms,60 Hz
+59,Acer,"₹12,499",VA Panel,68.58 cm,Full HD,250 nits,1 ms,180 Hz
+60,Enter,"₹3,456",,55.88 cm,HD,250 nits,5 ms,60 Hz
+61,LG,"₹6,199",VA Panel,54.0 cm,Full HD,250 nits,5 ms,100 Hz
+62,Samsung,"₹15,199",VA Panel,68.6 cm,Full HD,250 nits,4 ms,60 Hz
+63,Acer,"₹8,699",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,120 Hz
+64,Acer,"₹12,499",IPS Panel,68.58 cm,WQHD,250 nits,1 ms,120 Hz
+65,LG,"₹7,399",IPS Panel,60.45 cm,Full HD,200 nits,5 ms,100 Hz
+66,Samsung,"₹13,299",VA Panel,68.4 cm,Full HD,250 nits,1 ms,180 Hz
+67,MSI,"₹8,210",IPS Panel,63.5 cm,Full HD,250 nits,1 ms,120 Hz
+68,Acer,"₹4,999",TN Panel,49.53 cm,HD,,6 ms,75 Hz
+69,MSI,"₹6,999",VA Panel,60.96 cm,Full HD,300 nits,1 ms,100 Hz
+70,DELL,"₹10,999",IPS Panel,68.58 cm,Full HD,300 nits,4 ms,75 Hz
+71,Enter,"₹2,677",TN Panel,48.26 cm,HD,2502 nits,5 ms,60 Hz
+72,Samsung,"₹10,199",VA Panel,60.96 cm,Full HD,250 nits,1 ms,180 Hz
+73,BenQ,"₹12,989",IPS Panel,63.5 cm,Full HD,400 nits,1 ms,220 Hz
+74,Frontech,"₹2,899",,48.26 cm,HD,250 nits,3 ms,60 Hz
+75,Enter,"₹2,677",TN Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+76,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+77,BenQ,"₹10,990",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+78,LG,"₹7,999",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+79,Enter,"₹4,749",IPS Panel,55.88 cm,HD,250 nits,5 ms,75 Hz
+80,ZEBRONICS,"₹3,999",VA Panel,55.88 cm,HD,,5 ms,60 Hz
+81,HIKVISION,"₹5,149",VA Panel,54.61 cm,Full HD,250 nits,,75 Hz
+82,ASUS,"₹25,599",IPS Panel,68.58 cm,Quad HD,400 nits,1 ms,180 Hz
+83,ZEBRONICS,"₹6,999",VA Panel,60.96 cm,Full HD,250 nits,14 ms,100 Hz
+84,Acer,"₹7,960",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,100 Hz
+85,LG,"₹14,699",IPS Panel,73.66 cm,Full HD,250 nits,5 ms,100 Hz
+86,Acer,"₹13,999",IPS Panel,80.01 cm,Full HD,300 nits,1 ms,75 Hz
+87,Acer,"₹6,299",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,100 Hz
+88,Acer,"₹21,599",IPS Panel,68.58 cm,WQHD,400 nits,,300 Hz
+89,MarQ,"₹4,999",VA Panel,55.88 cm,Full HD,300 nits,5 ms,75 Hz
+90,BenQ,"₹7,298",IPS Panel,55.88 cm,Full HD,250 nits,5 ms,60 Hz
+91,Enter,"₹2,625",VA Panel,48.26 cm,HD,,5 ms,60 Hz
+92,DELL,"₹12,099",IPS Panel,54.61 cm,Full HD,250 nits,5 ms,100 Hz
+93,Frontech,"₹2,699",TN Panel,50.8 cm,HD,,5 ms,60 Hz
+94,ZEBRONICS,"₹7,104",VA Panel,54.61 cm,Full HD,250 nits,,75 Hz
+95,ZEBRONICS,"₹7,999",IPS Panel,60.96 cm,Full HD,280 nits,1 ms,180 Hz
+96,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+97,DELL,"₹12,099",IPS Panel,54.61 cm,Full HD,250 nits,5 ms,100 Hz
+98,Frontech,"₹2,699",TN Panel,50.8 cm,HD,,5 ms,60 Hz
+99,ZEBRONICS,"₹7,104",VA Panel,54.61 cm,Full HD,250 nits,,75 Hz
+100,ZEBRONICS,"₹7,999",IPS Panel,60.96 cm,Full HD,280 nits,1 ms,180 Hz
+101,BenQ,"₹12,990",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+102,LG,"₹8,349",IPS Panel,62.23 cm,Full HD,250 nits,5 ms,100 Hz
+103,Frontech,"₹8,560",VA Panel,68.58 cm,Full HD,250 nits,1 ms,75 Hz
+104,PHILIPS,"₹5,999",VA Panel,55.88 cm,Full HD,250 nits,4 ms,75 Hz
+105,Frontech,"₹6,570",VA Panel,60.96 cm,Full HD,250 nits,5 ms,75 Hz
+106,Frontech,"₹6,699",VA Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+107,Samsung,"₹8,699",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,120 Hz
+108,Lenovo,"₹6,499",VA Panel,54.61 cm,Full HD,,4 ms,60 Hz
+109,Arzopa,"₹10,790",IPS Panel,35.56 cm,Full HD,300 nits,3 ms,60 Hz
+110,Frontech,"₹6,999",IPS Panel,62.23 cm,Full HD,250 nits,8 ms,100 Hz
+111,Samsung,"₹10,399",VA Panel,68.58 cm,Full HD,250 nits,4 ms,75 Hz
+112,DELL,"₹13,799",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+113,Acer,"₹15,499",VA Panel,80.01 cm,Full HD,,1 ms,165 Hz
+114,Samsung,"₹8,199",VA Panel,60.96 cm,Full HD,250 nits,4 ms,100 Hz
+115,ViewSonic,"₹13,499",IPS Panel,68.58 cm,Quad HD,250 nits,1 ms,100 Hz
+116,LG,"₹15,199",IPS Panel,68.58 cm,Full HD,,5 ms,60 Hz
+117,Samsung,"₹26,999",IPS Panel,80.1 cm,Quad HD,350 nits,1 ms,180 Hz
+118,LG,"₹9,699",IPS Panel,68.58 cm,Full HD,,5 ms,100 Hz
+119,ZEBRONICS,"₹22,499",VA Panel,80.01 cm,WQHD,280 nits,1 ms,180 Hz
+120,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+121,Enter,"₹2,677",TN Panel,48.26 cm,HD,2502 nits,5 ms,60 Hz
+122,BenQ,"₹12,989",IPS Panel,63.5 cm,Full HD,400 nits,1 ms,220 Hz
+123,BenQ,"₹7,298",IPS Panel,55.88 cm,Full HD,250 nits,5 ms,60 Hz
+124,ASUS,"₹25,599",IPS Panel,68.58 cm,Quad HD,400 nits,1 ms,180 Hz
+125,Lenovo,"₹12,199",VA Panel,158.06 cm,Full HD,380 nits,,280 Hz
+126,ZEBSTER,"₹2,799",VA Panel,46.9 cm,HD,220 nits,5 ms,60 Hz
+127,Samsung,"₹34,499",VA Panel,107.9 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+128,DELL,"₹25,999",IPS Panel,68.58 cm,4K Ultra HD,,4 ms,120 Hz
+129,LG,"₹14,799",IPS Panel,60.96 cm,Quad HD,,5 ms,75 Hz
+130,MSI,"₹8,999",IPS Panel,60.96 cm,Full HD,300 nits,1 ms,180 Hz
+131,LG,"₹11,999",IPS Panel,60.45 cm,Quad HD,,5 ms,100 Hz
+132,LG,"₹27,999",VA Panel,86.36 cm,WQHD,,1 ms,100 Hz
+133,ZEBRONICS,"₹22,499",VA Panel,80.01 cm,WQHD,280 nits,1 ms,180 Hz
+134,ZEBRONICS,"₹8,999",VA Panel,63.5 cm,Full HD,250 nits,1 ms,180 Hz
+135,Lenovo,"₹7,199",IPS Panel,55.88 cm,Full HD,250 nits,4 ms,75 Hz
+136,LG,"₹5,943",TN Panel,46.99 cm,HD,200 nits,5 ms,60 Hz
+137,Samsung,"₹14,499",VA Panel,68.58 cm,Full HD,250 nits,4 ms,60 Hz
+138,Frontech,"₹8,560",VA Panel,68.58 cm,Full HD,250 nits,1 ms,75 Hz
+139,DELL,"₹12,099",IPS Panel,54.61 cm,Full HD,250 nits,5 ms,100 Hz
+140,Acer,"₹16,469",IPS Panel,80.01 cm,WQHD,300 nits,1 ms,75 Hz
+141,DELL,"₹9,399",IPS Panel,60.45 cm,Full HD,,4 ms,75 Hz
+142,Acer,"₹13,999",IPS Panel,80.01 cm,Full HD,300 nits,1 ms,75 Hz
+143,LG,"₹5,900",TN Panel,46.99 cm,HD,200 nits,5 ms,60 Hz
+144,DELL,"₹18,499",IPS Panel,60.96 cm,Full HD,,5 ms,100 Hz
+145,Samsung,"₹26,999",IPS Panel,80.1 cm,Quad HD,350 nits,1 ms,180 Hz
+146,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+147,Samsung,"₹18,599",VA Panel,81.28 cm,Full HD,250 nits,1 ms,180 Hz
+148,Samsung,"₹18,299",VA Panel,81.28 cm,Full HD,250 nits,4 ms,60 Hz
+149,LG,"₹19,599",IPS Panel,60.45 cm,Quad HD,300 nits,5 ms,75 Hz
+150,Lenovo,"₹20,699",IPS Panel,68.58 cm,Quad HD,350 nits,1 ms,100 Hz
+151,LG,"₹11,849",IPS Panel,60.96 cm,Full HD,300 nits,1 ms,180 Hz
+152,Samsung,"₹29,599",VA Panel,81.28 cm,4K Ultra HD,350 nits,5 ms,60 Hz
+153,Samsung,"₹21,299",IPS Panel,68.58 cm,Quad HD,350 nits,1 ms,180 Hz
+154,LG,"₹13,499",IPS Panel,62.23 cm,Full HD,200 nits,5 ms,60 Hz
+155,Frontech,"₹8,560",VA Panel,68.58 cm,Full HD,250 nits,1 ms,75 Hz
+156,Acer,"₹14,999",IPS Panel,62.23 cm,Full HD,,1 ms,300 Hz
+157,Acer,"₹15,999",IPS Panel,68.58 cm,WQHD,350 nits,,180 Hz
+158,MarQ,"₹7,499",VA Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+159,Samsung,"₹31,499",VA Panel,80.0 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+160,Samsung,"₹19,699",IPS Panel,68.58 cm,4K Ultra HD,350 nits,5 ms,60 Hz
+161,ZEBRONICS,"₹27,999",VA Panel,86.36 cm,WQHD,350 nits,1 ms,180 Hz
+162,Samsung,"₹10,199",IPS Panel,68.58 cm,Full HD,250 nits,4 ms,100 Hz
+163,LG,"₹8,349",IPS Panel,62.23 cm,Full HD,250 nits,5 ms,100 Hz
+164,Acer,"₹18,595",VA Panel,80.01 cm,Full HD,300 nits,1 ms,240 Hz
+165,MarQ,"₹6,999",VA Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+166,Samsung,"₹15,199",VA Panel,68.6 cm,Full HD,250 nits,4 ms,60 Hz
+167,ViewSonic,"₹18,999",IPS Panel,68.58 cm,4K Ultra HD,250 nits,4 ms,60 Hz
+168,MSI,"₹6,545",VA Panel,55.88 cm,Full HD,,1 ms,100 Hz
+169,Samsung,"₹17,699",VA Panel,81.28 cm,Full HD,,4 ms,60 Hz
+170,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+171,Samsung,"₹7,699",IPS Panel,60.96 cm,Full HD,250 nits,4 ms,100 Hz
+172,Frontech,"₹2,699",TN Panel,50.8 cm,HD,,5 ms,60 Hz
+173,PHILIPS,"₹5,999",VA Panel,55.88 cm,Full HD,250 nits,4 ms,75 Hz
+174,Acer,"₹37,965",VA Panel,97.79 cm,WQHD,400 nits,,170 Hz
+175,MSI,"₹26,499",VA Panel,86.36 cm,UWQHD,,1 ms,100 Hz
+176,AOC,"₹8,999",IPS Panel,68.58 cm,Full HD,,1 ms,100 Hz
+177,Frontech,"₹2,699",TN Panel,46.99 cm,HD,,5 ms,60 Hz
+178,Lenovo,"₹16,699",VA Panel,68.58 cm,Full HD,350 nits,,280 Hz
+179,BenQ,"₹18,990",IPS Panel,68.58 cm,Full HD,280 nits,1 ms,165 Hz
+180,Acer,"₹12,995",IPS Panel,80.01 cm,Full HD,300 nits,4 ms,60 Hz
+181,Lenovo,"₹11,990",IPS Panel,38.1 cm,Full HD,,6 ms,60 Hz
+182,ZEBRONICS,"₹7,104",VA Panel,54.61 cm,Full HD,250 nits,,75 Hz
+183,ZEBRONICS,"₹14,999",VA Panel,68.58 cm,Full HD,300 nits,1 ms,180 Hz
+184,rionix,"₹2,525",TN Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+185,HP,"₹16,490",IPS Panel,68.58 cm,Full HD,300 nits,5 ms,100 Hz
+186,PHILIPS,"₹10,413",VA Panel,54.61 cm,Full HD,250 nits,4 ms,75 Hz
+187,ZEBRONICS,"₹19,599",VA Panel,76.2 cm,WFHD,300 nits,1 ms,200 Hz
+188,Lenovo,"₹18,190",VA Panel,68.58 cm,Quad HD,350 nits,,180 Hz
+189,Foxin,"₹6,899",VA Panel,60.96 cm,Full HD,,5 ms,100 Hz
+190,ZEBSTER,"₹3,693",AHVA Panel,55.88 cm,Full HD,,5 ms,240 Hz
+191,Frontech,"₹6,699",VA Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+192,LG,"₹25,499",IPS Panel,68.58 cm,4K Ultra HD,,5 ms,60 Hz
+193,MSI,"₹8,499",IPS Panel,60.45 cm,Full HD,300 nits,1 ms,100 Hz
+194,Lenovo,"₹14,199",VA Panel,80.01 cm,Full HD,250 nits,4 ms,60 Hz
+195,Lenovo,"₹11,025",IPS Panel,68.58 cm,Full HD,300 nits,4 ms,100 Hz
+196,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+197,Acer,"₹9,499",IPS Panel,60.45 cm,Full HD,250 nits,,200 Hz
+198,Samsung,"₹30,899",VA Panel,80.0 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+199,LG,"₹1,24,999",IPS Panel,124.46 cm,DQHD,400 nits,5 ms,144 Hz
+200,MSI,"₹11,999",IPS Panel,40.64 cm,Full HD,250 nits,4 ms,60 Hz
+201,BenQ,"₹51,998",IPS Panel,81.28 cm,4K Ultra HD,550 nits,5 ms,60 Hz
+202,Samsung,"₹20,799",IPS Panel,68.58 cm,Full HD,400 nits,1 ms,240 Hz
+203,DELL,"₹34,599",VA Panel,81.28 cm,4K Ultra HD,300 nits,4 ms,120 Hz
+204,MSI,"₹6,835",VA Panel,60.96 cm,Full HD,,1 ms,100 Hz
+205,Enter,"₹2,747",,48.26 cm,HD,,5 ms,60 Hz
+206,Acer,"₹5,499",TN Panel,49.53 cm,HD,200 nits,6 ms,75 Hz
+207,Enter,"₹5,233",IPS Panel,55.88 cm,HD,250 nits,5 ms,75 Hz
+208,Samsung,"₹31,000",VA Panel,81.28 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+209,Acer,"₹11,299",IPS Panel,68.58 cm,Full HD,400 nits,1 ms,200 Hz
+210,LG,"₹28,990",IPS Panel,68.58 cm,Quad HD,350 nits,5 ms,75 Hz
+211,ASUS,"₹12,999",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,165 Hz
+212,Acer,"₹6,999",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,144 Hz
+213,ViewSonic,"₹14,799",IPS Panel,73.66 cm,WFHD,,4 ms,75 Hz
+214,Samsung,"₹7,199",IPS Panel,55.88 cm,Full HD,250 nits,5 ms,75 Hz
+215,BenQ,"₹10,399",IPS Panel,60.45 cm,Full HD,,5 ms,60 Hz
+216,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+217,LG,"₹14,699",IPS Panel,73.66 cm,Full HD,250 nits,5 ms,100 Hz
+218,BenQ,"₹10,399",IPS Panel,60.45 cm,Full HD,,5 ms,60 Hz
+219,Enter,"₹2,677",TN Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+220,HP,"₹19,999",VA Panel,68.58 cm,Full HD,350 nits,1 ms,165 Hz
+221,Lenovo,"₹15,799",IPS Panel,60.45 cm,Full HD,350 nits,,144 Hz
+222,Samsung,"₹12,199",IPS Panel,60.96 cm,Full HD,250 nits,4 ms,100 Hz
+223,DELL,"₹20,999",IPS Panel,60.96 cm,WQHD,350 nits,5 ms,100 Hz
+224,LG,"₹16,800",IPS Panel,73.66 cm,WFHD,250 nits,5 ms,100 Hz
+225,DELL,"₹9,599",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,100 Hz
+226,BenQ,"₹39,989",IPS Panel,68.58 cm,4K Ultra HD,400 nits,5 ms,60 Hz
+227,MSI,"₹15,499",IPS Panel,68.58 cm,WQHD,400 nits,1 ms,100 Hz
+228,LG,"₹20,449",IPS Panel,81.28 cm,Quad HD,250 nits,5 ms,100 Hz
+229,MILLENNIUM,"₹2,654",,48.26 cm,HD,,3 ms,60 Hz
+230,ViewSonic,"₹9,290",IPS Panel,60.96 cm,Full HD,,1 ms,180 Hz
+231,Enter,"₹2,834",,46.99 cm,HD,,5 ms,60 Hz
+232,Enter,"₹2,886",VA Panel,48.26 cm,HD,250 nits,5 ms,60 Hz
+233,LG,"₹33,999",IPS Panel,108.0 cm,4K Ultra HD,300 nits,5 ms,60 Hz
+234,MILLENNIUM,"₹2,285",,39.12 cm,HD,,3 ms,60 Hz
+235,BenQ,"₹41,998",IPS Panel,68.58 cm,4K Ultra HD,450 nits,5 ms,60 Hz
+236,Enter,"₹3,456",,55.88 cm,HD,250 nits,5 ms,60 Hz
+237,LG,"₹28,500",VA Panel,86.36 cm,WQHD,300 nits,5 ms,100 Hz
+238,Acer,"₹53,999",VA Panel,124.46 cm,Full HD,,4 ms,144 Hz
+239,ZEBRONICS,"₹16,999",VA Panel,68.58 cm,Quad HD,300 nits,1 ms,180 Hz
+240,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+241,Enter,"₹2,748",,48.26 cm,SXGA,250 nits,5 ms,60 Hz
+242,BenQ,"₹28,499",IPS Panel,63.5 cm,Quad HD,350 nits,5 ms,60 Hz
+243,HP,"₹11,069",IPS Panel,68.58 cm,Full HD,300 nits,5 ms,60 Hz
+244,BenQ,"₹15,735",IPS Panel,68.58 cm,Full HD,400 nits,1 ms,180 Hz
+245,Samsung,"₹15,199",VA Panel,68.58 cm,Full HD,,1 ms,165 Hz
+246,ViewSonic,"₹11,449",IPS Panel,60.96 cm,Full HD,250 nits,1 ms,180 Hz
+247,AOC,"₹12,949",IPS Panel,68.58 cm,Full HD,,,180 Hz
+248,MarQ,"₹8,027",VA Panel,55.88 cm,Full HD,220 nits,5 ms,75 Hz
+249,Acer,"₹6,299",IPS Panel,54.61 cm,Full HD,250 nits,1 ms,100 Hz
+250,Acer,"₹15,499",VA Panel,68.58 cm,WQHD,250 nits,1 ms,180 Hz
+251,DELL,"₹37,830",IPS Panel,68.58 cm,4K Ultra HD,,4 ms,120 Hz
+252,AOC,"₹9,499",IPS Panel,60.96 cm,Full HD,,,180 Hz
+253,DELL,"₹8,799",TN Panel,43.18 cm,HD,,5 ms,60 Hz
+254,HP,"₹13,290",IPS Panel,60.45 cm,Full HD,300 nits,5 ms,100 Hz
+255,AOC,"₹7,669",,54.61 cm,Full HD,250 nits,8 ms,60 Hz
+256,Acer,"₹12,499",IPS Panel,68.58 cm,WQHD,250 nits,1 ms,120 Hz
+257,DELL,"₹26,990",IPS Panel,68.58 cm,WQHD,400 nits,1 ms,180 Hz
+258,MSI,"₹23,399",IPS Panel,68.58 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+259,ASUS,"₹51,990",IPS Panel,68.58 cm,4K Ultra HD,,1 ms,160 Hz
+260,Samsung,"₹18,999",VA Panel,80.1 cm,Full HD,250 nits,4 ms,60 Hz
+261,ViewSonic,"₹13,499",IPS Panel,68.58 cm,Quad HD,250 nits,1 ms,100 Hz
+262,AOC,"₹12,609",IPS Panel,59.94 cm,Full HD,250 nits,1 ms,144 Hz
+263,ViewSonic,"₹8,799",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,100 Hz
+264,Samsung,"₹9,099",IPS Panel,68.58 cm,Full HD,,5 ms,75 Hz
+265,PHILIPS,"₹10,499",,68.58 cm,Full HD,,4 ms,60 Hz
+266,Frontech,"₹2,763",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+267,MarQ,"₹7,999",IPS Panel,60.96 cm,Full HD,250 nits,1 ms,165 Hz
+268,Acer,"₹19,999",IPS Panel,68.58 cm,4K Ultra HD,350 nits,4 ms,60 Hz
+269,Acer,"₹7,416",IPS Panel,60.45 cm,Full HD,,1 ms,120 Hz
+270,ZEBSTER,"₹2,595",VA Panel,46.99 cm,HD,220 nits,5 ms,60 Hz
+271,HP,"₹4,649",IPS Panel,54.61 cm,Full HD,250 nits,5 ms,60 Hz
+272,Acer,"₹30,599",IPS Panel,68.58 cm,UHD,,1 ms,160 Hz
+273,BenQ,"₹13,500",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,60 Hz
+274,Frontech,"₹5,399",VA Panel,55.88 cm,Full HD,250 nits,5 ms,100 Hz
+275,MSI,"₹25,498",IPS Panel,68.58 cm,WQHD,,1 ms,180 Hz
+276,ViewSonic,"₹5,499",VA Panel,55.88 cm,Full HD,250 nits,1 ms,100 Hz
+277,HP,"₹11,099",IPS Panel,60.45 cm,Full HD,300 nits,5 ms,75 Hz
+278,Foxin,"₹9,290",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,100 Hz
+279,Lenovo,"₹9,299",IPS Panel,60.45 cm,Full HD,,6 ms,100 Hz
+280,MSI,"₹2,601",IPS Panel,62.23 cm,Full HD,,,200 Hz
+281,Frontech,"₹17,999",VA Panel,48.26 cm,HD,250 nits,3 ms,75 Hz
+282,MSI,"₹10,090",IPS Panel,68.58 cm,WQHD,300 nits,,180 Hz
+283,ViewSonic,"₹21,490",IPS Panel,60.96 cm,Full HD,250 nits,1 ms,240 Hz
+284,ViewSonic,"₹13,971",IPS Panel,68.58 cm,Quad HD,300 nits,1 ms,240 Hz
+285,MSI,"₹1,01,499",IPS Panel,39.62 cm,Full HD,,4 ms,60 Hz
+286,MSI,"₹12,729",OLED Panel,81.28 cm,UHD,250 nits,,240 Hz
+287,ASUS,"₹11,499",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,75 Hz
+288,Samsung,"₹73,499",VA Panel,60.96 cm,Full HD,250 nits,1 ms,165 Hz
+289,DELL,"₹2,763",OLED Panel,68.58 cm,Quad HD,,,360 Hz
+290,Frontech,"₹9,769",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+291,ASUS,"₹28,369",IPS Panel,60.45 cm,Full HD,250 nits,5 ms,75 Hz
+292,Samsung,"₹10,999",VA Panel,81.28 cm,Full HD,350 nits,1 ms,240 Hz
+293,LG,"₹28,117",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,75 Hz
+294,MSI,"₹7,799",VA Panel,86.36 cm,UWQHD,,1 ms,100 Hz
+295,Samsung,"₹18,990",IPS Panel,60.96 cm,Full HD,250 nits,5 ms,75 Hz
+296,ViewSonic,"₹11,069",TN Panel,40.64 cm,Full HD,250 nits,12 ms,60 Hz
+297,ASUS,"₹6,499",IPS Panel,60.45 cm,Full HD,250 nits,5 ms,75 Hz
+298,ViewSonic,"₹29,349",IPS Panel,60.96 cm,Full HD,250 nits,1 ms,100 Hz
+299,MSI,"₹30,900",IPS Panel,68.58 cm,4K Ultra HD,,4 ms,144 Hz
+300,LG,"₹8,999",IPS Panel,68.58 cm,4K Ultra HD,350 nits,5 ms,60 Hz
+301,DELL,"₹7,497",VA Panel,68.58 cm,Full HD,300 nits,5 ms,75 Hz
+302,Acer,"₹6,570",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,120 Hz
+303,Frontech,"₹5,579",VA Panel,60.96 cm,Full HD,250 nits,5 ms,75 Hz
+304,Intex,"₹13,999",VA Panel,54.61 cm,HD,,5 ms,60 Hz
+305,Acer,"₹14,999",IPS Panel,60.45 cm,Full HD,,,165 Hz
+306,HP,"₹2,799",,60.45 cm,Full HD,250 nits,5 ms,75 Hz
+307,Enter,"₹10,499",VA Panel,48.26 cm,HD,,5 ms,60 Hz
+308,Acer,"₹11,999",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,200 Hz
+309,Acer,"₹11,666",IPS Panel,68.58 cm,Full HD,250 nits,,200 Hz
+310,Frontech,"₹9,299",IPS Panel,39.62 cm,Full HD,250 nits,20 ms,60 Hz
+311,LG,"₹7,999",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+312,Acer,"₹7,100",IPS Panel,62.23 cm,Full HD,250 nits,1 ms,144 Hz
+313,Acer,"₹3,499",IPS Panel,54.61 cm,Full HD,250 nits,4 ms,75 Hz
+314,ZEBSTER,"₹9,299",TN Panel,55.88 cm,HD,220 nits,8 ms,60 Hz
+315,Acer,"₹2,763",TN Panel,54.61 cm,Full HD,250 nits,4 ms,60 Hz
+316,Frontech,"₹2,606",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+317,Enter,"₹2,888",,48.26 cm,HD,,5 ms,60 Hz
+318,ZEBSTER,"₹10,890",AHVA Panel,50.8 cm,HD,,,
+319,ASUS,"₹8,999",IPS Panel,60.45 cm,Full HD,250 nits,1 ms,100 Hz
+320,ZEBRONICS,"₹6,350",IPS Panel,39.62 cm,Full HD,250 nits,5 ms,60 Hz
+321,Acer,"₹10,499",TN Panel,49.53 cm,HD,,6 ms,75 Hz
+322,Acer,"₹18,761",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,200 Hz
+323,HP,"₹11,999",,68.58 cm,Full HD,300 nits,5 ms,75 Hz
+324,Acer,"₹17,999",IPS Panel,68.58 cm,Full HD,250 nits,,200 Hz
+325,Samsung,"₹18,999",IPS Panel,68.58 cm,Quad HD,,5 ms,100 Hz
+326,Lenovo,"₹32,499",IPS Panel,60.45 cm,Quad HD,,4 ms,60 Hz
+327,ASUS,"₹8,899",TN Panel,71.12 cm,4K Ultra HD,330 nits,1 ms,60 Hz
+328,Acer,"₹11,599",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,120 Hz
+329,DELL,"₹20,999",TN Panel,55.88 cm,Full HD,250 nits,5 ms,60 Hz
+330,DELL,"₹6,999",IPS Panel,60.96 cm,WUXGA,,5 ms,100 Hz
+331,Frontech,"₹39,799",IPS Panel,62.23 cm,Full HD,250 nits,8 ms,100 Hz
+332,Samsung,"₹6,499",IPS Panel,60.96 cm,4K Ultra HD,350 nits,5 ms,60 Hz
+333,DAHUA,"₹7,399",IPS Panel,60.45 cm,Full HD,200 nits,,75 Hz
+334,Lenovo,"₹14,999",VA Panel,54.48 cm,Full HD,250 nits,4 ms,75 Hz
+335,DELL,"₹2,763",IPS Panel,68.58 cm,Full HD,300 nits,8 ms,60 Hz
+336,Frontech,"₹21,349",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+337,ASUS,"₹9,699",IPS Panel,68.58 cm,Full HD,400 nits,1 ms,280 Hz
+338,Samsung,"₹6,761",IPS Panel,55.88 cm,Full HD,,5 ms,60 Hz
+339,MSI,"₹10,718",VA Panel,55.88 cm,Full HD,,1 ms,60 Hz
+340,ASUS,"₹17,499",VA Panel,60.45 cm,Full HD,350 nits,1 ms,165 Hz
+341,Acer,"₹11,249",IPS Panel,54.61 cm,Full HD,250 nits,4 ms,75 Hz
+342,Samsung,"₹6,299",VA Panel,60.96 cm,Full HD,2502 nits,1 ms,144 Hz
+343,Samsung,"₹15,999",VA Panel,55.88 cm,Full HD,,,60 Hz
+344,Samsung,"₹8,379",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,60 Hz
+345,Acer,"₹10,996",IPS Panel,68.58 cm,Full HD,250 nits,,165 Hz
+346,MSI,"₹12,499",IPS Panel,68.58 cm,Full HD,,4 ms,100 Hz
+347,Lenovo,"₹22,701",IPS Panel,68.58 cm,Full HD,300 nits,6 ms,100 Hz
+348,BenQ,"₹11,350",TN Panel,70.87 cm,4K Ultra HD,300 nits,1 ms,60 Hz
+349,Samsung,"₹24,738",VA Panel,56.13 cm,Full HD,250 nits,5 ms,60 Hz
+350,ASUS,"₹15,999",IPS Panel,60.96 cm,Full HD,,5 ms,75 Hz
+351,Samsung,"₹9,189",IPS Panel,68.58 cm,Full HD,250 nits,5 ms,100 Hz
+352,BenQ,"₹12,309",IPS Panel,68.58 cm,Full HD,,5 ms,60 Hz
+353,Lenovo,"₹43,884",TN Panel,62.23 cm,Full HD,,1 ms,144 Hz
+354,ViewSonic,"₹15,490",VA Panel,68.58 cm,Full HD,250 nits,12 ms,60 Hz
+355,ViewSonic,"₹26,989",IPS Panel,68.58 cm,Full HD,250 nits,4 ms,60 Hz
+356,BenQ,"₹8,151",IPS Panel,61.21 cm,WUXGA,,5 ms,60 Hz
+357,FINGERS,"₹58,990",VA Panel,60.45 cm,Full HD,250 nits,20 ms,100 Hz
+358,EIZO,"₹18,999",IPS Panel,61.21 cm,WUXGA,,,60 Hz
+359,MSI,"₹2,763",IPS Panel,68.58 cm,WQHD,250 nits,4 ms,75 Hz
+360,Frontech,"₹2,916",VA Panel,50.8 cm,HD,250 nits,3 ms,60 Hz
+361,zebion,"₹1,10,999",TN Panel,50.8 cm,HD,,5 ms,60 Hz
+362,LIMEBERRY,"₹49,990",IPS Panel,165.1 cm,4K Ultra HD,450 nits,5 ms,200 Hz
+363,EIZO,"₹15,299",IPS Panel,61.21 cm,WUXGA,350 nits,5 ms,60 Hz
+364,DELL,"₹15,499",TN Panel,60.96 cm,Full HD,350 nits,1 ms,144 Hz
+365,HP,"₹9,999",IPS Panel,68.58 cm,Full HD,300 nits,5 ms,100 Hz
+366,Acer,"₹8,499",IPS Panel,68.58 cm,Full HD,250 nits,1 ms,120 Hz
+367,AOC,"₹15,949",IPS Panel,60.96 cm,Full HD,,,180 Hz
+368,LG,"₹21,389",IPS Panel,68.58 cm,Quad HD,250 nits,5 ms,100 Hz
+369,ASUS,"₹30,499",TN Panel,68.58 cm,Full HD,400 nits,,165 Hz
+370,GIGABYTE,"₹15,002",IPS Panel,68.58 cm,Quad HD,350 nits,,170 Hz
+371,MSI,"₹30,999",IPS Panel,39.62 cm,Full HD,250 nits,4 ms,60 Hz
+372,Samsung,"₹8,699",VA Panel,81.28 cm,4K Ultra HD,300 nits,4 ms,60 Hz
+373,Samsung,"₹6,299",VA Panel,55.88 cm,Full HD,250 nits,,60 Hz
+374,FINGERS,"₹81,989",VA Panel,54.48 cm,Full HD,250 nits,20 ms,100 Hz
+375,EIZO,"₹94,990",IPS Panel,71.12 cm,Quad HD,350 nits,5 ms,60 Hz
+376,ASIATOUCH,"₹17,390",IPS Panel,165.1 cm,4K Ultra HD,,8 ms,60 Hz
+377,Samsung,"₹8,834",VA Panel,60.96 cm,Full HD,250 nits,4 ms,144 Hz
+378,Samsung,"₹1,06,000",VA Panel,48.26 cm,Full HD,250 nits,,60 Hz
+379,ASIATOUCH,"₹13,165",IPS Panel,190.5 cm,4K Ultra HD,,8 ms,60 Hz
+380,GIGABYTE,"₹63,399",IPS Panel,68.58 cm,Full HD,,1 ms,165 Hz
+381,DELL,"₹18,000",IPS Panel,86.36 cm,WQHD,,5 ms,60 Hz
+382,AMS,"₹16,949",IPS Panel,39.62 cm,Full HD,250 nits,10 ms,60 Hz
+383,Samsung,,VA Panel,68.58 cm,Full HD,250 nits,4 ms,60 Hz
